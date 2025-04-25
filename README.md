@@ -60,7 +60,7 @@ Developed as a final project for **Mobile Cloud Computing**.
 
 ## 🔄 Data Flow
 
-- Sensor Input → HAR Model (TFLite) → Activity Prediction  
+- Sensor Input → HAR Model (TFLite) → Activity prediction  
 - Prediction → Trigger Notification via Android NotificationManager  
 - Chatbot logic powered by "Chat 3.5b" & Smart Prompting  
 
