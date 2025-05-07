@@ -14,7 +14,7 @@ This project explores the integration of:
 - 💡 Smart prompting mechanisms
 - 🔁 TensorFlow Lite for edge-device performance
 
-Developed as a final project for **Mobile Cloud Computing**.
+Developed as a final project for **Mobile Cloud Computing**
 
 ---
 
